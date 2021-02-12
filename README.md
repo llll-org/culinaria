@@ -7,7 +7,8 @@ Bibliografie culinară
 
 Copertă | Descriere
 ------- | ---------
-![draghici](./assets/draghici.jpg) | Post. Manolaki Drăghici, _Rețete cercate în număr de 500 din bucătăria cea mare a lui Robert, întâiul bucătar al Curții Spaniei_, Tipografia Institutul Albinei, Iașii, 1846.
+| Mihail Kogălniceanu, Costache Negruzzi, _200 rețete cercate de bucate, prăjituri și alte trebi gospodărești_, 1841.
+![draghici](./assets/draghici.jpg) | Post. Manolaki Drăghici, _Rețete cercate în număr de 500 din bucătăria cea mare a lui Robert, întâiul bucătar a Curții Franției, potrivit pentru toate stările_, Tipografia Institutul Albinei, Iașii, 1846.
 ![steriad-2](./assets/steriad-2.jpg) | Ecaterina Steriad (Colonel), _Buna menageră_, Edițiunea a II-a, Editura Librăriei Socecu & Co., Bucuresci, 1874.
 ![regina-1900](./assets/regina-1900.jpg) | X. X., _Regina bucătăriei sau Bucătăria universală pentru sănătoși și bolnavi_, Editura Tipografiei „Universul”, București, 1900. [Mai multe ediții](#regina-bucatariei).
 ![baltzer](./assets/baltzer.jpg) | Eduard Baltzer, Toma Simionescu (trad.), _Bucătăria vegetariană_, a 5-a ediție în română, Tipografiile Române Unite, București, după 1925.

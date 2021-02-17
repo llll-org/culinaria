@@ -16,6 +16,7 @@ Copertă | Descriere
 ![opreanu](./assets/opreanu.jpg) | Lucreția Dr. Opreanu, _Bucătărie românească_, Tip. „Ardealul”, Cluj, 1935.
 ![bacalbasa-1935](./assets/bacalbasa-1935.jpg) | Constantin Bacalbașa (prefață), _Dictatura gastronomică, 1501 feluri de mâncări_, Tipografia ziarului „Universul”, București, 1935.
 ![pascu](./assets/pascu.jpg) | Ing. Alex. N. Pascu, _Bucătăria practică_, Depozitul: Ing. Alex. N. Pascu, București, 1936.
+![dobrescu-dulciuri](./assets/dobrescu-dulciuri.jpg) | Maria General Dobrescu, _Dulciuri_, Editura Librăriei SOCEC & Co., S. A., București, 1936.
 ![constantinescu-1936](./assets/constantinescu-1936.jpg) | Elena Constantinescu, _Bucătăria gospodinei române_, Institut de arte grafice A. Grozea, București, 1936.
 ![constantinescu-1937](./assets/constantinescu-1937.jpg) | Elena Constantinescu, _Bucătăria gospodinei române_, Tip. „Tirajul”, București, 1937.
 ![madeleine-azi](./assets/madeleine-azi.jpg) | B. Madeleine, _Ce mâncăm azi?_, Editura „Naționala-Ciornei” S.A., București, 1937 sau mai devreme.

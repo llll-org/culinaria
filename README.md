@@ -48,8 +48,12 @@ Copertă | Descriere
 
 Copertă | Descriere
 ------- | ---------
-![steriad-2](./assets/steriad-2.jpg) | Ecaterina Steriad (Colonel), _Buna menageră_, Edițiunea a II-a, Editura Librăriei Socecu & Co., Bucuresci, 1874.
-![comsa-6](./assets/comsa-6.jpg) | Ecaterina Comșa, _Buna menajeră sau Carte de bucate_, Ediția a VI-a, Editura Librăriei SOCEC & Co., Societ. Anonimă, București, 1929.
+![steriad-2](./assets/steriad-2.jpg) | Ecaterina Steriad (Colonel), _Buna menageră_, Edițiunea II-a, Editura Librăriei Socecu & Co., Bucuresci, 1874.
+![comsa-4](./assets/comsa-4.jpg) | Ecaterina Dr. S. Comșa, _Buna menajeră sau Carte de bucate_, Ediția VI-a, Atelierele grafice SOCEC & Co., Societate Anonimă, București, 1925.
+![comsa-5](./assets/comsa-5.jpg) | Ecaterina Dr. S. Comșa, _Buna menajeră sau Carte de bucate_, Ediția V-a, Editura Librăriei SOCEC & Co., Societate Anonimă, București, 1927.
+![comsa-6](./assets/comsa-6.jpg) | Ecaterina Dr. S. Comșa, _Buna menajeră sau Carte de bucate_, Ediția VI-a, Editura Librăriei SOCEC & Co., Societ. Anonimă, București, 1929.
+![comsa-7](./assets/comsa-7.jpg) | Ecaterina Dr. S. Comșa, _Buna menajeră sau Carte de bucate_, Ediția VII-a, Editura Librăriei SOCEC & Co., Societate Anonimă, București, 1932.
+![comsa-9](./assets/comsa-9.jpg) | Ecaterina Dr. S. Comșa, _Buna menajeră sau Carte de bucate_, Ediția IX-a, Editura Librăriei SOCEC & Co., Societate Anonimă, București.
 
 ### Sanda Marin
 

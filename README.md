@@ -18,6 +18,7 @@ Copertă | Descriere
 ![stanceanu](./assets/stanceanu.jpg) | A. Stânceanu, _Cea mai nouă carte de bucate_, „Cultura Românească”, S.A.R. Institut de Editură, Arte Grafice și Confecțiuni de Hârtie, București, _an necunoscut_.
 ![dobrescu-camin](./assets/dobrescu-camin.jpg) | Maria Colonel Dobrescu, _Prin cămin spre civilizație_, Imprimeria Fundației Culturale „Principele Carol”, București, 1924.
 ![guichard-waygart](./assets/guichard-waygart.jpg) | Em. Guichard, C. Waygart, _Călăuza bucătăriei franceze_, Tipografia „Cultura Poporului”, București, 1928.
+![popoviciu](./assets/popoviciu.jpg) | Lazăr Popoviciu, _Taina vieții lungi, bucătăria fără foc_, Tiparul Tipografiei Diecezane, Arad, cca. 1929-1931.
 ![opreanu](./assets/opreanu.jpg) | Lucreția Dr. Opreanu, _Bucătărie românească_, Tip. „Ardealul”, Cluj, 1935.
 ![bacalbasa-1935](./assets/bacalbasa-1935.jpg) | Constantin Bacalbașa (prefață), _Dictatura gastronomică, 1501 feluri de mâncări_, Tipografia ziarului „Universul”, București, 1935.
 ![opreanu-bufet](./assets/opreanu-bufet.jpg) | Lucreția Dr. Opreanu, _Bufet rece și cofetărie_, Editura autoarei, Tipografia „Nouă”, Cluj, 1935.
@@ -26,10 +27,12 @@ Copertă | Descriere
 ![dobrescu-dulciuri](./assets/dobrescu-dulciuri.jpg) | Maria General Dobrescu, _Dulciuri_, Editura Librăriei SOCEC & Co., S. A., București, 1936.
 ![constantinescu-1936](./assets/constantinescu-1936.jpg) | Elena Constantinescu, _Bucătăria gospodinei române_, Institut de arte grafice A. Grozea, București, 1936.
 ![constantinescu-1937](./assets/constantinescu-1937.jpg) | Elena Constantinescu, _Bucătăria gospodinei române_, Tip. „Tirajul”, București, 1937.
+![bons-plats](./assets/bons-plats.jpg) | _Les bons plats Roumains_, Imprimerie „Luceafărul” S.A., Bucarest, 1937.
 ![madeleine-azi](./assets/madeleine-azi.jpg) | B. Madeleine, _Ce mâncăm azi?_, Editura „Naționala-Ciornei” S.A., București, 1937 sau mai devreme.
 ![madeleine-ora](./assets/madeleine-ora.jpg) | B. Madeleine, _Bucătăria într'o oră_, Atelierele Grafice Socec & Co. S.A., București, 1937.
 ![ciortan-nicolau](./assets/ciortan-nicolau-vol-4.jpg) | Elisabeta Ciortan, Xenia Nicolau, _Bucătăria rațională, rețete de mâncări_, Volumul IV, Ediția a II-a, Tipografia „Universul”, București, 1943.
 ![logan](./assets/logan.jpg) | Iraida Logan, _Salate_, Editura Tehnică, București, 1962.
+![retetar-1963](./assets/retetar-1963.jpg) | Lazăr Benone, Constantin Gheorghiu, Ioan Mihai, Constantin Popa, _Rețetar pentru produse de cofetărie și patiserie_, Editura Tehnică, București, 1963.
 ![teodoreanu-gastronomice](./assets/teodoreanu-gastronomice.jpg) | Al. O. Teodoreanu, _Gastronomice_, Editura pentru turism, București, 1973.
 ![teodoreanu-re-culinaria](./assets/teodoreanu-re-culinaria.jpg) | Al. O. Teodoreanu, _De re culinaria_, Editura Sport-Turism, București, 1977.
 ![stoica](./assets/stoica.jpg) | Octavian Stoica, _De-ale gurii din bătrîni_, Editura Sport-Turism, București, 1978.
@@ -98,3 +101,16 @@ Copertă | Descriere
 Copertă | Descriere
 ------- | ---------
 ![petrini-3](./assets/petrini-3.jpg) | A. Petrini, _Carte de bucate_, Ediția a III-a, Editura IG Hertz, București. 
+![petrini-4](./assets/petrini-4.jpg) | A. Petrini, _Carte de bucate_, Ediția a IV-a, Editura IG Hertz, București. 
+
+### Elena M. Demetrescu
+
+Copertă | Descriere
+------- | ---------
+![demetrescu-1](./assets/demetrescu-1.jpg) | Elena M. Demetrescu, _Economia casnică_, Ediția I-a, Inst. de Arte Grafice Carol Göbl, București, 1912.
+![demetrescu-economia-1913](./assets/demetrescu-economia-1913.jpg) | Elena M. Demetrescu, _Economia casnică_, Ediția II, Atelierele Grafice SOCEC & Co., Societate anonimă, București, 1913.
+
+
+### Altele
+
+* Gabrielle Tăzlăuanu — Carte de bucate [Ref](https://www.galeriasigma.ro/produs/x-16086)

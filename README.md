@@ -10,12 +10,19 @@ Copertă | Descriere
 | Mihail Kogălniceanu, Costache Negruzzi, _200 rețete cercate de bucate, prăjituri și alte trebi gospodărești_, 1841.
 ![draghici](./assets/draghici.jpg) | Post. Manolaki Drăghici, _Rețete cercate în număr de 500 din bucătăria cea mare a lui Robert, întâiul bucătar a Curții Franției, potrivit pentru toate stările_, Tipografia Institutul Albinei, Iașii, 1846.
 ![steriad-2](./assets/steriad-2.jpg) | Ecaterina Steriad (Colonel), _Buna menageră_, Edițiunea a II-a, Editura Librăriei Socecu & Co., Bucuresci, 1874.
+| Elise Fröhlich, _Siebenbürgische Küche_ (Bucătăria transilvăneană), Fünfte Auflage, 1897.
 ![regina-1900](./assets/regina-1900.jpg) | X. X., _Regina bucătăriei sau Bucătăria universală pentru sănătoși și bolnavi_, Editura Tipografiei „Universul”, București, 1900. [Mai multe ediții](#regina-bucatariei).
-![baltzer](./assets/baltzer.jpg) | Eduard Baltzer, Toma Simionescu (trad.), _Bucătăria vegetariană_, a 5-a ediție în română, Tipografiile Române Unite, București, după 1925.
-![guichard-waygart](./assets/guichard-waygart.jpg) | Em. Guichard, C. Waygart, _Călăuza bucătăriei franceze_, Tipografia „Cultura Poporului”, București, 1928
+![demetrescu-1](./assets/demetrescu-1.jpg) | Elena M. Demetrescu, _Economia casnică_, Ediția I-a, Inst. de Arte Grafice Carol Göbl, București, 1912.
+![baltzer-3](./assets/baltzer-3.jpg) | Eduard Baltzer, Toma Simionescu (trad.), _Bucătăria vegetariană_, a 3-a ediție în română, Editura lui Toma Simionescu, Noua Tip. Profesională, București, 1912.
+![sachelarie](./assets/sachelarie-1921.jpg) | Dr. Aurelia Sachelarie, Henrieta Sachelarie, _Arta și știința în bucătărie_, Institutul de Arte Grafice „Luceafărul”, București, 1921.
+![stanceanu](./assets/stanceanu.jpg) | A. Stânceanu, _Cea mai nouă carte de bucate_, „Cultura Românească”, S.A.R. Institut de Editură, Arte Grafice și Confecțiuni de Hârtie, București, _an necunoscut_.
+![dobrescu-camin](./assets/dobrescu-camin.jpg) | Maria Colonel Dobrescu, _Prin cămin spre civilizație_, Imprimeria Fundației Culturale „Principele Carol”, București, 1924.
+![guichard-waygart](./assets/guichard-waygart.jpg) | Em. Guichard, C. Waygart, _Călăuza bucătăriei franceze_, Tipografia „Cultura Poporului”, București, 1928.
 ![opreanu](./assets/opreanu.jpg) | Lucreția Dr. Opreanu, _Bucătărie românească_, Tip. „Ardealul”, Cluj, 1935.
 ![bacalbasa-1935](./assets/bacalbasa-1935.jpg) | Constantin Bacalbașa (prefață), _Dictatura gastronomică, 1501 feluri de mâncări_, Tipografia ziarului „Universul”, București, 1935.
+![opreanu-bufet](./assets/opreanu-bufet.jpg) | Lucreția Dr. Opreanu, _Bufet rece și cofetărie_, Editura autoarei, Tipografia „Nouă”, Cluj, 1935.
 ![pascu](./assets/pascu.jpg) | Ing. Alex. N. Pascu, _Bucătăria practică_, Depozitul: Ing. Alex. N. Pascu, București, 1936.
+![dobrescu-bucataria-moderna-2](./assets/dobrescu-bucataria-moderna-2.jpg) | Maria General Dobrescu, _Bucătăria modernă_, Editura Librăriei SOCEC & Co., S.A., București.
 ![dobrescu-dulciuri](./assets/dobrescu-dulciuri.jpg) | Maria General Dobrescu, _Dulciuri_, Editura Librăriei SOCEC & Co., S. A., București, 1936.
 ![constantinescu-1936](./assets/constantinescu-1936.jpg) | Elena Constantinescu, _Bucătăria gospodinei române_, Institut de arte grafice A. Grozea, București, 1936.
 ![constantinescu-1937](./assets/constantinescu-1937.jpg) | Elena Constantinescu, _Bucătăria gospodinei române_, Tip. „Tirajul”, București, 1937.
@@ -44,11 +51,12 @@ Copertă | Descriere
 ![regina-1900](./assets/regina-1900.jpg) | X. X., _Regina bucătăriei sau Bucătăria universală pentru sănătoși și bolnavi_, Editura Tipografiei „Universul”, București, 1900.
 ![regina-1926](./assets/regina-1926.jpg) | X. X., _Regina bucătăriei sau Bucătăria universală pentru sănătoși și bolnavi_, Ediție nouă revăzută și adăugită, Editura Societății Anonime „Universul”, București, 1926.
 
-### Buna menajeră
+### Ecaterina Steriad (Comșa)
 
 Copertă | Descriere
 ------- | ---------
 ![steriad-2](./assets/steriad-2.jpg) | Ecaterina Steriad (Colonel), _Buna menageră_, Edițiunea II-a, Editura Librăriei Socecu & Co., Bucuresci, 1874.
+![steriad-1907](./assets/steriad-1907.jpg) | Ecaterina Colonel Steriad, _Buna menageră, carte de bucate practică_, Editura Librăriei Leon Alcalay, București, 1907. 
 ![comsa-4](./assets/comsa-4.jpg) | Ecaterina Dr. S. Comșa, _Buna menajeră sau Carte de bucate_, Ediția VI-a, Atelierele grafice SOCEC & Co., Societate Anonimă, București, 1925.
 ![comsa-5](./assets/comsa-5.jpg) | Ecaterina Dr. S. Comșa, _Buna menajeră sau Carte de bucate_, Ediția V-a, Editura Librăriei SOCEC & Co., Societate Anonimă, București, 1927.
 ![comsa-6](./assets/comsa-6.jpg) | Ecaterina Dr. S. Comșa, _Buna menajeră sau Carte de bucate_, Ediția VI-a, Editura Librăriei SOCEC & Co., Societ. Anonimă, București, 1929.
@@ -70,3 +78,23 @@ Copertă | Descriere
 ------- | ---------
 ![bacalbasa-1935](./assets/bacalbasa-1935.jpg) | Constantin Bacalbașa (prefață), _Dictatura gastronomică, 1501 feluri de mâncări_, Tipografia ziarului „Universul”, București, 1935.
 ![bacalbasa-2009](./assets/bacalbasa-2009.jpg) | Constantin Bacalbașa (prefață), Dan-Silviu Boerescu (prefață și note), _Dictatura gastronomică, 1501 de feluri de mâncări din 1935_, Lifestyle Classic, Editura Trei, București, 2009.
+
+### Toma Simionescu
+
+Copertă | Descriere
+------- | ---------
+![baltzer-3](./assets/baltzer-3.jpg) | Eduard Baltzer, Toma Simionescu (trad.), _Bucătăria vegetariană_, a 3-a ediție în română, Editura lui Toma Simionescu, Noua Tip. Profesională, București, 1912.
+![baltzer-5](./assets/baltzer-5.jpg) | Eduard Baltzer, Toma Simionescu (trad.), _Bucătăria vegetariană_, a 5-a ediție în română, Tipografiile Române Unite, București, după 1925.
+
+### Elise Fröhlich
+
+Copertă | Descriere
+------- | ---------
+| Elise Fröhlich, _Siebenbürgische Küche_ (Bucătăria transilvăneană), Fünfte Auflage, 1897.
+![frohlich-2020](./assets/frohlich-2020.jpg) | Elise Fröhlich, Ruxandra Stănescu (trad.), _Bucătăria transilvăneană_, Editura Armanis, Sibiu, 2020.
+
+### A. Petrini
+
+Copertă | Descriere
+------- | ---------
+![petrini-3](./assets/petrini-3.jpg) | A. Petrini, _Carte de bucate_, Ediția a III-a, Editura IG Hertz, București. 

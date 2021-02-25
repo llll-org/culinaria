@@ -30,6 +30,7 @@ Copertă | Descriere
 ![bons-plats](./assets/bons-plats.jpg) | _Les bons plats Roumains_, Imprimerie „Luceafărul” S.A., Bucarest, 1937.
 ![madeleine-azi](./assets/madeleine-azi.jpg) | B. Madeleine, _Ce mâncăm azi?_, Editura „Naționala-Ciornei” S.A., București, 1937 sau mai devreme.
 ![madeleine-ora](./assets/madeleine-ora.jpg) | B. Madeleine, _Bucătăria într'o oră_, Atelierele Grafice Socec & Co. S.A., București, 1937.
+![sevastos-1939](./assets/sevastos-1939.jpg) | M. Sevastos, _Carte de bucate_, Editura „Cugetarea”, București, 1939.
 ![ciortan-nicolau](./assets/ciortan-nicolau-vol-4.jpg) | Elisabeta Ciortan, Xenia Nicolau, _Bucătăria rațională, rețete de mâncări_, Volumul IV, Ediția a II-a, Tipografia „Universul”, București, 1943.
 ![logan](./assets/logan.jpg) | Iraida Logan, _Salate_, Editura Tehnică, București, 1962.
 ![retetar-1963](./assets/retetar-1963.jpg) | Lazăr Benone, Constantin Gheorghiu, Ioan Mihai, Constantin Popa, _Rețetar pentru produse de cofetărie și patiserie_, Editura Tehnică, București, 1963.

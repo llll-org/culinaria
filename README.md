@@ -19,9 +19,9 @@ Copertă | Descriere
 ![dobrescu-camin](./assets/dobrescu-camin.jpg) | Maria Colonel Dobrescu, _Prin cămin spre civilizație_, Imprimeria Fundației Culturale „Principele Carol”, București, 1924.
 ![guichard-waygart](./assets/guichard-waygart.jpg) | Em. Guichard, C. Waygart, _Călăuza bucătăriei franceze_, Tipografia „Cultura Poporului”, București, 1928.
 ![popoviciu](./assets/popoviciu.jpg) | Lazăr Popoviciu, _Taina vieții lungi, bucătăria fără foc_, Tiparul Tipografiei Diecezane, Arad, cca. 1929-1931.
-![opreanu](./assets/opreanu.jpg) | Lucreția Dr. Opreanu, _Bucătărie românească_, Tip. „Ardealul”, Cluj, 1935.
 ![bacalbasa-1935](./assets/bacalbasa-1935.jpg) | Constantin Bacalbașa (prefață), _Dictatura gastronomică, 1501 feluri de mâncări_, Tipografia ziarului „Universul”, București, 1935.
-![opreanu-bufet](./assets/opreanu-bufet.jpg) | Lucreția Dr. Opreanu, _Bufet rece și cofetărie_, Editura autoarei, Tipografia „Nouă”, Cluj, 1935.
+![opreanu](./assets/opreanu.jpg) | Lucreția Dr. Opreanu, _Bucătărie românească_, Tip. „Ardealul”, Cluj, 1935.
+![opreanu-bufet](./assets/opreanu-bufet.jpg) | Lucreția Dr. Opreanu, _Bufet rece și cofetărie_, Editura autoarei, Tipografia „Nouă”, Cluj, 1936.
 ![pascu](./assets/pascu.jpg) | Ing. Alex. N. Pascu, _Bucătăria practică_, Depozitul: Ing. Alex. N. Pascu, București, 1936.
 ![dobrescu-bucataria-moderna-2](./assets/dobrescu-bucataria-moderna-2.jpg) | Maria General Dobrescu, _Bucătăria modernă_, Editura Librăriei SOCEC & Co., S.A., București.
 ![dobrescu-dulciuri](./assets/dobrescu-dulciuri.jpg) | Maria General Dobrescu, _Dulciuri_, Editura Librăriei SOCEC & Co., S. A., București, 1936.
@@ -110,6 +110,26 @@ Copertă | Descriere
 ------- | ---------
 ![demetrescu-1](./assets/demetrescu-1.jpg) | Elena M. Demetrescu, _Economia casnică_, Ediția I-a, Inst. de Arte Grafice Carol Göbl, București, 1912.
 ![demetrescu-economia-1913](./assets/demetrescu-economia-1913.jpg) | Elena M. Demetrescu, _Economia casnică_, Ediția II, Atelierele Grafice SOCEC & Co., Societate anonimă, București, 1913.
+
+### Lucreția Opreanu
+
+Copertă | Descriere
+------- | ---------
+![opreanu](./assets/opreanu.jpg) | Lucreția Dr. Opreanu, _Bucătărie românească_, Tip. „Ardealul”, Cluj, 1935.
+![opreanu-bufet](./assets/opreanu-bufet.jpg) | Lucreția Dr. Opreanu, _Bufet rece și cofetărie_, Editura autoarei, Tipografia „Nouă”, Cluj, 1936.
+![opreanu-romaneasca-4](./assets/opreanu-romaneasca-4.jpg) | Lucreția Opreanu, Lucreția Opreanu, _Bucătărie românească_, Ediția a III-a, Cluj, 1938.
+![opreanu-romaneasca-4](./assets/opreanu-romaneasca-4.jpg) | Lucreția Opreanu, Lucreția Opreanu, _Bucătărie românească_, Ediția a IV-a, Sibiu, 1942.
+![opreanu-bufet-rece-2](./assets/opreanu-bufet-rece-2.jpg) | Lucreția Opreanu, _Bufet rece_, Ediția a II-a, Timișoara, 1943.
+![opreanu-conserve](./assets/opreanu-conserve.jpg) | Lucreția Opreanu, _Pregătirea conservelor_, Timișoara, 1943.
+![opreanu-satencei](./assets/opreanu-satencei.jpg) | Lucreția Opreanu, _Mica bucătărie a sătencei_, Timișoara, 1943.
+![opreanu-romaneasca-5](./assets/opreanu-romaneasca-5.jpg) | Lucreția Opreanu, _Bucătărie românească_, Ediția a V-a, Timișoara, 1944.
+![oprean-minuturi](./assets/oprean-minuturi.jpg) | Lucreția Oprean, _Minuturi alimentare și alte rețete culinare_, Editura Tehnică, București, 1970.
+![oprean-romaneasca-1972](./assets/oprean-romaneasca-1972.jpg) | Lucreția Oprean, _Bucătărie românească_, Editura Tehnică, București, 1972.
+![oprean-popoare](./assets/oprean-popoare.jpg) | Lucreția Oprean, _Preparate culinare din bucătăria popoarelor_, Editura pentru turism, București, 1974.
+![oprean-satencei](./assets/oprean-satencei.jpg) | Lucreția Oprean, _Bucătăria sătencei_, Editura Tehnică, București, 1974.
+![oprean-transilvania](./assets/oprean-transilvania.jpg) | Lucreția Oprean, _Bucătăria din Transilvania_, Editura Ceres, București, 1976.
+![oprean-turistului](./assets/oprean-turistului.jpg) | Lucreția Oprean, _Bucătăria turistului_, Editura Sport-Turism, București, 1976.
+![oprean-lactate](./assets/oprean-lactate.jpg) | Lucreția Oprean, _Preparate lactate, făinoase și vegetale_, Editura Tehnică, București, 1980.
 
 
 ### Altele
